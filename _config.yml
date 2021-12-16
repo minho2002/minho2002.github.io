@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
+name: "minho choi"
+email: "minho_2002@naver.com"
 url: url
-description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+description: "mino's blog"
+author: "minho choi"
+title: "minho's blog"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
+  username: minho2002
 
 twitter:
   username: username
