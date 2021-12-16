@@ -4,10 +4,69 @@ title: "유레카 특강 배운내용들"
 date: 2021-12-16 11:00:00 -0500
 ---
 
-Hey, it's just my first post!
+안녕하세요
+오늘은 유레카 프로젝트에서 3주간 깃블로그 수업에서 배운 내용들 중 Markdown과 jekyll에 대해서 정리해 보겠습니다.
 
-From [http://slipsum.com/lite/](http://slipsum.com/lite/):
+#Markdown
+- markdown이란?
+ markdown은 일반 텍스트로 서식이 있는 문서를 작성하는 방법이예요
+ 
+ 
+- header
+ 제목(header)을 작성할 때에는 #을 붙여서 작성하면 글씨가 크게 나온답니다
+ 
+ #을 한개 붙였을 때에는
+#이렇게 크게 나오고
 
-"The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee."
+ #을 두개 붙였을 때에는
+##약간 작게 나오고
 
-"Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing."
+ #을 세개 붙였을 때에는
+###더 작게 나와요
+
+ 이렇게 #을 이용해서 큰주제, 작은주제 등으로 제목을 나눌 수 있겠죠?
+ 
+ 
+- Italic
+ italic이란 기울임체를 말해요.
+ *과 _을 이용해서 기울임체를 사용할 수 있어요.
+ 기울임체로 쓰고싶은 글자 양옆으로 *나 _을 붙여주면 기울임체로 나와요.
+ *이런식으로 기울여져서 나온답니다*
+ 
+ 
+- Bold
+ 세번째는 강조체(Bold)입니다.
+ 앞서 기울임체와 사용법이 비슷한데 글자 양옆으로 **나 __로 작성하면 돼요.
+ **이런식으로 나온답니다 (한국어라 구별이 크게 잘 안날거예요)**
+ 
+
+- Strikethrough
+ 네번째는 취소선(Strikethrough)입니다.
+ 마찬가지로 글자 양옆으로 ~을 붙여주면 돼요.
+ ~이런식으로 나온답니다~
+ 
+
+이 네가지 문법을 가장 보편적으로 사용할 것 같아요.
+더 많은 문법들은 Markdown Guide - Basic Syntax에서 확인할 수 있습니다!
+
+
+
+#Jekyll
+
+- Jekyll이란?
+ Jekyll이란 Ruby 기반 정적 웹사이트 생성기입니다.
+
+- Ruby가 뭐지??
+ Dynamic Object-Oriented Scriping Language, 동적 객체 지향 스크리핑 언어예요.
+ 
+- 정적 웹사이트는??
+ HTML 등으로 작성된 문서를 그대로 전달해 주는 것이예요.
+ 
+- Static Webpage를 생성한다는 것이 뭔가요?
+ 형식이 있는 문서를 HTML로 바꿔주는 것을 의미해요.
+ 우리가 알고 있는 Markdown도 형식이 있는 문서이죠.
+ 
+ 
+#마무리
+ 오늘은 이것으로 포스팅을 마치겠습니다.
+ 읽어주셔서 감사합니당~
