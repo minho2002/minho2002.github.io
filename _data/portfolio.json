@@ -1,12 +1,12 @@
 {
     "items": [{
-        "name": "Project One",
+        "name": "none",
         "link": "",
         "image": "http://via.placeholder.com/480x320",
-        "date_added": "2017-06-09",
-        "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+        "date_added": "2021-12-16",
+        "description": "No portfolio<br><small><em>If I make a portfolio, I'll add it</em></small>",
         "technologies": [
-            "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
+            "None"
         ]
     }]
 }
