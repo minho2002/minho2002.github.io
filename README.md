@@ -1,7 +1,20 @@
-# Blog of Song Kong
-This is a Jekyll theme called Ice bear.
+#  Jekyll Theme - BlogFolio
 
-To learn how to install and use this theme, please check out the [installation guide](http://ikongsong.com/blog/ice-bear-jekyll-theme/) for more information.
+A simple and easy to use blog and portfolio theme for Jekyll
 
-## License
-This theme is open source under MIT License. So feel free to use this Jekyll theme on your site, although linking back to me is more than welcomed.
+##  Install
+1. Clone or download `https://github.com/lamccloskey/jekyll-theme-blogfolio.git`
+2. Enter folder `cd jekyll-theme-blogfolio/`
+3. Start Jekyll Server `jekyll serve`
+4. Enter url  `localhost:4000/jekyll-theme-blogfolio/`
+
+##  Demo
+[https://lamccloskey.github.io/jekyll-theme-blogfolio/](https://lamccloskey.github.io/jekyll-theme-blogfolio/)
+
+
+##  Preview
+![alt text](blogfolio.gif "Blogfolio")
+
+
+---
+_Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma.io/)_
